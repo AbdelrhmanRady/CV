@@ -1,0 +1,115 @@
+body{
+margin: 0;
+  text-align: center;
+  font-family: 'Edu QLD Beginner', cursive;
+
+
+}
+h1{
+margin: 0;
+color: #EB4747;
+
+
+}
+h2{
+  color : #EB4747;
+  margin: 0;
+}
+.glory{
+  color: #EB4747;
+}
+
+.topContainer{
+
+  background-color: #F8F9D7;
+
+  position: relative;
+  padding: 100px;
+  margin: 0;
+
+
+}
+.middle-container{
+background-color: #F9F9F9;
+margin: 0;
+padding-top: 10px;
+position: relative;
+text-align: center;
+}
+.bottom-container{
+
+  background-color: #CDF0EA;
+  margin: 0;
+  height: 120px;
+  padding-top: 15px;
+}
+.topCloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottomCloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+
+
+}
+.randomCloud{
+  position: absolute;
+  right: 0;
+  display: none;
+}
+.ME{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.line{
+margin: 0;
+padding: 0;
+background-color: lightblue;
+}
+.intro{
+  background-color: #F9F9C5;
+  margin: 0;
+  height: 50px;
+}
+.hey{
+  color: black;
+}
+hr{
+  margin: 0;
+}
+.end{
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.links{
+  margin: 15px;
+
+}
+.reaching{
+  margin-bottom: 10px;
+}
+.img{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 100px;
+  bottom: 35px;
+}
+.push{
+  position: relative;
+  top: 100px;
+  right: 100px;
+}
+.text{
+  width: 70%;
+  margin: 0 auto;
+}
+.inline{
+  display: inline-block;
+}
