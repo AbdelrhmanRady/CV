@@ -41,7 +41,7 @@ text-align: center;
   background-color: #CDF0EA;
   margin: 0;
   height: 120px;
-  padding-top: 15px;
+  padding: 20px;
 }
 .topCloud{
   position: absolute;
@@ -109,6 +109,8 @@ hr{
 .text{
   width: 70%;
   margin: 0 auto;
+  height: 50px;
+
 }
 .inline{
   display: inline-block;
